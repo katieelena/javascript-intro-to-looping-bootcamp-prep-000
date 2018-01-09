@@ -1,4 +1,4 @@
-function forLoop() {
+/*function forLoop(array) {
   var array = new Array();
   for (var i === 0, i<26, i++) {
     if(i===1) {
@@ -8,4 +8,8 @@ function forLoop() {
       array.push ("I am " + i + " strange loops")
     }
   }
+}*/
+
+function forLoop(array) {
+  
 }
